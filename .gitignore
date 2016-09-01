@@ -1,3 +1,9 @@
 .DS_Store
 
 *.LCK
+
+/Connections/radioRecords.php
+
+/Connections/random_connect.php
+
+/xmlservices/Connections/
