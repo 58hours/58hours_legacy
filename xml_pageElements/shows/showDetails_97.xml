@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="6"><![CDATA[Canada]]></country>
+<locale id="18"><![CDATA[British Columbia]]></locale>
+<city id="19"><![CDATA[Vancouver]]></city>
+<venue id="5"><![CDATA[Thunderbird Stadium]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Thunderbird+Stadium</venue>
+</flashlabel>
+<showdate>Sunday, June 24, 2001</showdate>
+<shownavi><previousshow>58</previousshow>
+<nextshow>96</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="40"><![CDATA[National Anthem]]></track>
+<track num="2" id="46"><![CDATA[Morning Bell]]></track>
+<track num="3" id="36"><![CDATA[Lucky]]></track>
+<track num="4" id="29"><![CDATA[Airbag]]></track>
+<track num="5" id="44"><![CDATA[In Limbo]]></track>
+<track num="6" id="48"><![CDATA[Packt Like Sardines in a Crushd Tin Box]]></track>
+<track num="7" id="4"><![CDATA[Exit Music (for a film)]]></track>
+<track num="8" id="51"><![CDATA[You And Whose Army?]]></track>
+<track num="9" id="35"><![CDATA[No Surprises]]></track>
+<track num="10" id="54"><![CDATA[Dollars & Cents]]></track>
+<track num="11" id="53"><![CDATA[Knives Out]]></track>
+<track num="12" id="73"><![CDATA[Permanent Daylight]]></track>
+<track num="13" id="22"><![CDATA[Just]]></track>
+<track num="14" id="49"><![CDATA[Pyramid Song]]></track>
+<track num="15" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="16" id="45"><![CDATA[Idioteque]]></track>
+<track num="17" id="38"><![CDATA[Everything In Its Right Place]]></track>
+<track num="24" id="2"><![CDATA[Karma Police]]></track>
+</main>
+<encore1>
+<track num="18" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="19" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="20" id="34"><![CDATA[Climbing Up The Walls]]></track>
+<track num="21" id="41"><![CDATA[How To Disappear Completely]]></track>
+</encore1>
+<encore2>
+<track num="22" id="65"><![CDATA[Nude]]></track>
+<track num="23" id="58"><![CDATA[Talk Show Host]]></track>
+</encore2>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[Vancouver]]></member>
+<member id=""><![CDATA[yuki]]></member>
+<member id=""><![CDATA[lex]]></member>
+<member id=""><![CDATA[strack]]></member>
+<member id=""><![CDATA[okcokc]]></member>
+<member id=""><![CDATA[mrpoptop]]></member>
+<member id=""><![CDATA[starfucker]]></member>
+<member id=""><![CDATA[entheogen111]]></member>
+<member id=""><![CDATA[dbkbye]]></member>
+<member id=""><![CDATA[wmgaretjax]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=97]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

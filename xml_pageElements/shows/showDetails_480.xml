@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="196"><![CDATA[Leicester]]></city>
+<venue id="348"><![CDATA[Princess Charlotte]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Princess+Charlotte</venue>
+</flashlabel>
+<showdate>Saturday, October 31, 1992</showdate>
+<shownavi><previousshow>481</previousshow>
+<nextshow>479</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=480]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

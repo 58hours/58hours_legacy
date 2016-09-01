@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="54"><![CDATA[Leeds]]></city>
+<venue id="35"><![CDATA[Town and Country Club]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Town+and+Country+Club</venue>
+</flashlabel>
+<showdate>Wednesday, November 01, 1995</showdate>
+<shownavi><previousshow>320</previousshow>
+<nextshow>149</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="2" id="20"><![CDATA[Bones]]></track>
+<track num="3" id="10"><![CDATA[Anyone Can Play Guitar]]></track>
+<track num="4" id="18"><![CDATA[High and Dry]]></track>
+<track num="5" id="13"><![CDATA[Prove Yourself]]></track>
+<track num="6" id="66"><![CDATA[Big Boots]]></track>
+<track num="7" id="25"><![CDATA[Black Star]]></track>
+<track num="8" id="21"><![CDATA[(Nice Dream)]]></track>
+<track num="9" id="24"><![CDATA[Bullet Proof.. I Wish I Was]]></track>
+<track num="10" id="26"><![CDATA[Sulk]]></track>
+<track num="11" id="6"><![CDATA[Creep]]></track>
+<track num="12" id="16"><![CDATA[Planet Telex]]></track>
+<track num="13" id="22"><![CDATA[Just]]></track>
+<track num="14" id="15"><![CDATA[Blow Out]]></track>
+<track num="15" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="16" id="36"><![CDATA[Lucky]]></track>
+<track num="17" id="5"><![CDATA[You]]></track>
+<track num="18" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="19" id="17"><![CDATA[The Bends]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=184]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="26"><![CDATA[Massachusetts]]></locale>
+<city id="231"><![CDATA[Amherst]]></city>
+<venue id="410"><![CDATA[Union Ballroom (University of Massachusetts)]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Union+Ballroom+%28University+of+Massachusetts%29</venue>
+</flashlabel>
+<showdate>Tuesday, October 05, 1993</showdate>
+<shownavi><previousshow>562</previousshow>
+<nextshow>564</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=563]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

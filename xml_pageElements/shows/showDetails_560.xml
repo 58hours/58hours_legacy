@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="104"><![CDATA[Maryland]]></locale>
+<city id="228"><![CDATA[College Park]]></city>
+<venue id="407"><![CDATA[Ritchie Coliseum]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Ritchie+Coliseum</venue>
+</flashlabel>
+<showdate>Friday, October 01, 1993</showdate>
+<shownavi><previousshow>559</previousshow>
+<nextshow>561</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[Kris]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=560]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

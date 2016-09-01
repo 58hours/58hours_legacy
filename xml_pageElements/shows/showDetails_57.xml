@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="7"><![CDATA[Japan]]></country>
+<locale id="40"><![CDATA[Tokyo]]></locale>
+<city id="62"><![CDATA[Tokyo]]></city>
+<venue id="135"><![CDATA[Kokusai Forum]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Kokusai+Forum</venue>
+</flashlabel>
+<showdate>Sunday, January 18, 1998</showdate>
+<shownavi><previousshow>250</previousshow>
+<nextshow>207</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="84"><![CDATA[Meeting in the Aisle]]></track>
+<track num="2" id="29"><![CDATA[Airbag]]></track>
+<track num="3" id="2"><![CDATA[Karma Police]]></track>
+<track num="4" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="5" id="16"><![CDATA[Planet Telex]]></track>
+<track num="6" id="4"><![CDATA[Exit Music (for a film)]]></track>
+<track num="7" id="22"><![CDATA[Just]]></track>
+<track num="8" id="34"><![CDATA[Climbing Up The Walls]]></track>
+<track num="9" id="31"><![CDATA[Subterranean Homesick Alien]]></track>
+<track num="10" id="36"><![CDATA[Lucky]]></track>
+<track num="11" id="35"><![CDATA[No Surprises]]></track>
+<track num="12" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="13" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="14" id="24"><![CDATA[Bullet Proof.. I Wish I Was]]></track>
+<track num="15" id="17"><![CDATA[The Bends]]></track>
+<track num="16" id="21"><![CDATA[(Nice Dream)]]></track>
+<track num="17" id="20"><![CDATA[Bones]]></track>
+<track num="18" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="19" id="5"><![CDATA[You]]></track>
+<track num="20" id="32"><![CDATA[Let Down]]></track>
+<track num="21" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="22" id="80"><![CDATA[Pearly*]]></track>
+<track num="23" id="37"><![CDATA[The Tourist]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=57]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

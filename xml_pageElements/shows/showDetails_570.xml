@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="27"><![CDATA[China]]></country>
+<locale id="121"><![CDATA[Hong Kong]]></locale>
+<city id="234"><![CDATA[Hong Kong]]></city>
+<venue id="413"><![CDATA[Ko Shan Theater]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Ko+Shan+Theater</venue>
+</flashlabel>
+<showdate>Sunday, June 12, 1994</showdate>
+<shownavi><previousshow>26</previousshow>
+<nextshow>81</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=570]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

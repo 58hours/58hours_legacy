@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="104"><![CDATA[Maryland]]></locale>
+<city id="142"><![CDATA[Rockville]]></city>
+<venue id="240"><![CDATA[WHFS Studios]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>WHFS+Studios</venue>
+</flashlabel>
+<showdate>Wednesday, April 10, 1996</showdate>
+<shownavi><previousshow>241</previousshow>
+<nextshow>314</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="36"><![CDATA[Lucky]]></track>
+<track num="2" id="18"><![CDATA[High and Dry]]></track>
+<track num="3" id="47"><![CDATA[Motion Picture Soundtrack]]></track>
+<track num="4" id="19"><![CDATA[Fake Plastic Trees]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=313]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

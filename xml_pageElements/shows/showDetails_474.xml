@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="42"><![CDATA[London]]></city>
+<venue id="304"><![CDATA[Islington Powerhaus]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Islington+Powerhaus</venue>
+</flashlabel>
+<showdate>Friday, November 13, 1992</showdate>
+<shownavi><previousshow>522</previousshow>
+<nextshow>473</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=474]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

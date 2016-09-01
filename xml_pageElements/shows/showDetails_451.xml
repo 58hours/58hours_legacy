@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="56"><![CDATA[Windsor]]></city>
+<venue id="75"><![CDATA[Old Trout]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Old+Trout</venue>
+</flashlabel>
+<showdate>Tuesday, May 12, 1992</showdate>
+<shownavi><previousshow>452</previousshow>
+<nextshow>411</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=451]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

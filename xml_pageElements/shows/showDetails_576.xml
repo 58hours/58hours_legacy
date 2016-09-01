@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="6"><![CDATA[Canada]]></country>
+<locale id="18"><![CDATA[British Columbia]]></locale>
+<city id="19"><![CDATA[Vancouver]]></city>
+<venue id="418"><![CDATA[Starfish Room]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Starfish+Room</venue>
+</flashlabel>
+<showdate>Sunday, July 09, 1995</showdate>
+<shownavi><previousshow>575</previousshow>
+<nextshow>413</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=576]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

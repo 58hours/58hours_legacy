@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="44"><![CDATA[Plymouth]]></city>
+<venue id="159"><![CDATA[Plymouth Warehouse]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Plymouth+Warehouse</venue>
+</flashlabel>
+<showdate>Wednesday, November 18, 1992</showdate>
+<shownavi><previousshow>473</previousshow>
+<nextshow>47</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="6"><![CDATA[Creep]]></track>
+<track num="2" id="7"><![CDATA[How Do You?]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[andyowen]]></member>
+</memberspresent>
+<comments>
+<comment author="A. Owen" timestamp="2:12 PM [PST], Tuesday, June 06, 2006"><![CDATA[Attendance was around 60. The band were paid the princely sum of £32 each plus an all-you-can-eat buffet and free drinks. 
+
+how things have changed. ]]></comment>
+</comments>
+<post_comments><![CDATA[post_comments.php?showID=234]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

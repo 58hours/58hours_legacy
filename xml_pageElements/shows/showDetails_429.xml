@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="7"><![CDATA[Japan]]></country>
+<locale id="45"><![CDATA[Osaka]]></locale>
+<city id="68"><![CDATA[Osaka]]></city>
+<venue id="317"><![CDATA[Intex]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Intex</venue>
+</flashlabel>
+<showdate>Thursday, April 15, 2004</showdate>
+<tour id="9"><![CDATA[Hail To The Thief]]></tour>
+<shownavi><previousshow>428</previousshow>
+<nextshow>430</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="75"><![CDATA[2&#43;2=5]]></track>
+<track num="2" id="89"><![CDATA[Myxomatosis]]></track>
+<track num="3" id="39"><![CDATA[Kid A]]></track>
+<track num="4" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="5" id="138"><![CDATA[Backdrifts]]></track>
+<track num="6" id="49"><![CDATA[Pyramid Song]]></track>
+<track num="7" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="8" id="94"><![CDATA[Go To Sleep]]></track>
+<track num="9" id="95"><![CDATA[Where I End and You Begin]]></track>
+<track num="10" id="51"><![CDATA[You And Whose Army?]]></track>
+<track num="11" id="56"><![CDATA[Like Spinning Plates]]></track>
+<track num="12" id="34"><![CDATA[Climbing Up The Walls]]></track>
+<track num="13" id="40"><![CDATA[National Anthem]]></track>
+<track num="14" id="4"><![CDATA[Exit Music (for a film)]]></track>
+<track num="15" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="16" id="93"><![CDATA[Sit Down. Stand Up.]]></track>
+</main>
+<encore1>
+<track num="17" id="61"><![CDATA[There There]]></track>
+<track num="18" id="21"><![CDATA[(Nice Dream)]]></track>
+<track num="19" id="45"><![CDATA[Idioteque]]></track>
+<track num="20" id="41"><![CDATA[How To Disappear Completely]]></track>
+</encore1>
+<encore2>
+<track num="21" id="16"><![CDATA[Planet Telex]]></track>
+<track num="22" id="38"><![CDATA[Everything In Its Right Place]]></track>
+</encore2>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[peterpan]]></member>
+<member id=""><![CDATA[Vancouver]]></member>
+<member id=""><![CDATA[mandyr]]></member>
+<member id=""><![CDATA[radioreverie]]></member>
+<member id=""><![CDATA[sometimesnj]]></member>
+<member id=""><![CDATA[Kid Julian]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=429]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

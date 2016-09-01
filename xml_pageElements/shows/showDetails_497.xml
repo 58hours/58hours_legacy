@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="198"><![CDATA[Loughborough]]></city>
+<venue id="350"><![CDATA[Loughborough University]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Loughborough+University</venue>
+</flashlabel>
+<showdate>Thursday, February 04, 1993</showdate>
+<shownavi><previousshow>498</previousshow>
+<nextshow>496</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=497]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

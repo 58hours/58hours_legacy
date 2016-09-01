@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="190"><![CDATA[Derby]]></city>
+<venue id="332"><![CDATA[Wherehouse]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Wherehouse</venue>
+</flashlabel>
+<showdate>Monday, October 05, 1992</showdate>
+<shownavi><previousshow>490</previousshow>
+<nextshow>489</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=449]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

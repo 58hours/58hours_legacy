@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="14"><![CDATA[Florida]]></locale>
+<city id="223"><![CDATA[Miami Beach]]></city>
+<venue id="402"><![CDATA[Cameo Theater]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Cameo+Theater</venue>
+</flashlabel>
+<showdate>Thursday, September 23, 1993</showdate>
+<shownavi><previousshow>554</previousshow>
+<nextshow>556</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=555]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

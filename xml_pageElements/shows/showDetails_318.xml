@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="3"><![CDATA[New York]]></locale>
+<city id="144"><![CDATA[Wantaugh]]></city>
+<venue id="244"><![CDATA[Jones Beach Amphitheatre]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Jones+Beach+Amphitheatre</venue>
+</flashlabel>
+<showdate>Friday, August 16, 1996</showdate>
+<shownavi><previousshow>319</previousshow>
+<nextshow>191</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="2" id="18"><![CDATA[High and Dry]]></track>
+<track num="3" id="34"><![CDATA[Climbing Up The Walls]]></track>
+<track num="4" id="6"><![CDATA[Creep]]></track>
+<track num="5" id="68"><![CDATA[Lift]]></track>
+<track num="6" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="7" id="2"><![CDATA[Karma Police]]></track>
+<track num="8" id="22"><![CDATA[Just]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[chokedamp]]></member>
+<member id=""><![CDATA[chokedamp1]]></member>
+<member id=""><![CDATA[chokedamp123]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=318]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

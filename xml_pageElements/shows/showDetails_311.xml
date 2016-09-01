@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="6"><![CDATA[Canada]]></country>
+<locale id="18"><![CDATA[British Columbia]]></locale>
+<city id="19"><![CDATA[Vancouver]]></city>
+<venue id="238"><![CDATA[CBC Studio]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>CBC+Studio</venue>
+</flashlabel>
+<showdate>Friday, March 22, 1996</showdate>
+<shownavi><previousshow>236</previousshow>
+<nextshow>136</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="2" id="82"><![CDATA[Killer Cars]]></track>
+<track num="3" id="128"><![CDATA[Wonderwall]]></track>
+<track num="4" id="15"><![CDATA[Blow Out]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=311]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

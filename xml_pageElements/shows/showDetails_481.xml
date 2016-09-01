@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="203"><![CDATA[Exeter]]></city>
+<venue id="355"><![CDATA[Cavern]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Cavern</venue>
+</flashlabel>
+<showdate>Friday, October 30, 1992</showdate>
+<shownavi><previousshow>482</previousshow>
+<nextshow>480</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=481]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

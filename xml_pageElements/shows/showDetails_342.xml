@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="42"><![CDATA[London]]></city>
+<venue id="258"><![CDATA[unknown]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>unknown</venue>
+</flashlabel>
+<showdate>Wednesday, September 14, 1994</showdate>
+<shownavi><previousshow>49</previousshow>
+<nextshow>213</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="20"><![CDATA[Bones]]></track>
+<track num="2" id="22"><![CDATA[Just]]></track>
+<track num="3" id="76"><![CDATA[Maquilladora]]></track>
+<track num="4" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=342]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

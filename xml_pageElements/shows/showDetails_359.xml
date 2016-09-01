@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="3"><![CDATA[France]]></country>
+<locale id="61"><![CDATA[Nancy]]></locale>
+<city id="85"><![CDATA[Nancy]]></city>
+<venue id="128"><![CDATA[FNAC Auditorium]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>FNAC+Auditorium</venue>
+</flashlabel>
+<showdate>Monday, June 14, 1993</showdate>
+<shownavi><previousshow>541</previousshow>
+<nextshow>62</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="9"><![CDATA[Thinking About You]]></track>
+<track num="2" id="24"><![CDATA[Bullet Proof.. I Wish I Was]]></track>
+<track num="3" id="8"><![CDATA[Stop Whispering]]></track>
+<track num="4" id="72"><![CDATA[Lozenge of Love]]></track>
+<track num="5" id="79"><![CDATA[Faithless the Wonder Boy]]></track>
+<track num="6" id="5"><![CDATA[You]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=359]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

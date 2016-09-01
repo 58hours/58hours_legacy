@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="10"><![CDATA[Netherlands]]></country>
+<locale id="95"><![CDATA[Utrecht]]></locale>
+<city id="129"><![CDATA[Utrecht]]></city>
+<venue id="390"><![CDATA[Tivoli Gardens]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Tivoli+Gardens</venue>
+</flashlabel>
+<showdate>Wednesday, June 09, 1993</showdate>
+<shownavi><previousshow>538</previousshow>
+<nextshow>540</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=539]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

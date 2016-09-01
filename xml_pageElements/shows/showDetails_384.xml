@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="18"><![CDATA[Mountain View]]></city>
+<venue id="76"><![CDATA[Shoreline Amphitheatre]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Shoreline+Amphitheatre</venue>
+</flashlabel>
+<showdate>Sunday, October 27, 2002</showdate>
+<shownavi><previousshow>385</previousshow>
+<nextshow>227</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="2" id="46"><![CDATA[Morning Bell]]></track>
+<track num="3" id="21"><![CDATA[(Nice Dream)]]></track>
+<track num="4" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="5" id="60"><![CDATA[Sail To The Moon]]></track>
+<track num="6" id="56"><![CDATA[Like Spinning Plates]]></track>
+<track num="7" id="63"><![CDATA[True Love Waits]]></track>
+<track num="8" id="30"><![CDATA[Paranoid Android]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[peterpan]]></member>
+<member id=""><![CDATA[lex]]></member>
+<member id=""><![CDATA[okcokc]]></member>
+<member id=""><![CDATA[mahntoh]]></member>
+</memberspresent>
+<shownotes><![CDATA[Thom solo & acoustic.]]></shownotes>
+<post_comments><![CDATA[post_comments.php?showID=384]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

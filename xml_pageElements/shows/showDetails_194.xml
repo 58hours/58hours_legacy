@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="6"><![CDATA[Canada]]></country>
+<locale id="4"><![CDATA[Ontario]]></locale>
+<city id="20"><![CDATA[Toronto]]></city>
+<venue id="57"><![CDATA[Arrow Hall]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Arrow+Hall</venue>
+</flashlabel>
+<showdate>Tuesday, August 19, 1997</showdate>
+<shownavi><previousshow>274</previousshow>
+<nextshow>196</nextshow>
+</shownavi>
+<support><![CDATA[Teenage Fanclub]]></support>
+<setlist>
+<main>
+<track num="1" id="33"><![CDATA[Fitter Happier]]></track>
+<track num="2" id="36"><![CDATA[Lucky]]></track>
+<track num="3" id="22"><![CDATA[Just]]></track>
+<track num="4" id="29"><![CDATA[Airbag]]></track>
+<track num="5" id="16"><![CDATA[Planet Telex]]></track>
+<track num="6" id="4"><![CDATA[Exit Music (for a film)]]></track>
+<track num="7" id="2"><![CDATA[Karma Police]]></track>
+<track num="8" id="34"><![CDATA[Climbing Up The Walls]]></track>
+<track num="9" id="35"><![CDATA[No Surprises]]></track>
+<track num="10" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="11" id="14"><![CDATA[Lurgee]]></track>
+<track num="12" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="13" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="14" id="32"><![CDATA[Let Down]]></track>
+<track num="15" id="21"><![CDATA[(Nice Dream)]]></track>
+<track num="16" id="20"><![CDATA[Bones]]></track>
+<track num="17" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="18" id="17"><![CDATA[The Bends]]></track>
+<track num="19" id="31"><![CDATA[Subterranean Homesick Alien]]></track>
+<track num="20" id="71"><![CDATA[Banana Co.]]></track>
+<track num="21" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[phuzzbot]]></member>
+<member id=""><![CDATA[killymagee]]></member>
+<member id=""><![CDATA[Winfield]]></member>
+<member id=""><![CDATA[rdiohd]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=194]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

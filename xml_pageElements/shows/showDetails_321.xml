@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="146"><![CDATA[Santa Cruz]]></city>
+<venue id="246"><![CDATA[Civic Auditorium]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Civic+Auditorium</venue>
+</flashlabel>
+<showdate>Wednesday, October 11, 1995</showdate>
+<shownavi><previousshow>183</previousshow>
+<nextshow>320</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="6"><![CDATA[Creep]]></track>
+<track num="2" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="3" id="20"><![CDATA[Bones]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[ATLFalconsFAN]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=321]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

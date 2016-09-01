@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="29"><![CDATA[Irvine Meadows]]></city>
+<venue id="52"><![CDATA[KROQ Weenie Roast]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>KROQ+Weenie+Roast</venue>
+</flashlabel>
+<showdate>Saturday, June 14, 1997</showdate>
+<shownavi><previousshow>40</previousshow>
+<nextshow>152</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="2" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="3" id="17"><![CDATA[The Bends]]></track>
+<track num="4" id="4"><![CDATA[Exit Music (for a film)]]></track>
+<track num="5" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="6" id="19"><![CDATA[Fake Plastic Trees]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[jessica]]></member>
+<member id=""><![CDATA[yalzin]]></member>
+<member id=""><![CDATA[okcokc]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=151]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

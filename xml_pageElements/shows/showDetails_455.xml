@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="42"><![CDATA[London]]></city>
+<venue id="338"><![CDATA[Central London Polytechnic University]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Central+London+Polytechnic+University</venue>
+</flashlabel>
+<showdate>Tuesday, May 19, 1992</showdate>
+<shownavi><previousshow>454</previousshow>
+<nextshow>456</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=455]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

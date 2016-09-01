@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="2"><![CDATA[Washington]]></locale>
+<city id="3"><![CDATA[Seattle]]></city>
+<venue id="30"><![CDATA[Exhibition Hall]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Exhibition+Hall</venue>
+</flashlabel>
+<showdate>Saturday, December 17, 1994</showdate>
+<shownavi><previousshow>521</previousshow>
+<nextshow>245</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="2" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="3" id="18"><![CDATA[High and Dry]]></track>
+<track num="4" id="21"><![CDATA[(Nice Dream)]]></track>
+<track num="5" id="72"><![CDATA[Lozenge of Love]]></track>
+<track num="6" id="6"><![CDATA[Creep]]></track>
+<track num="7" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="8" id="5"><![CDATA[You]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=180]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

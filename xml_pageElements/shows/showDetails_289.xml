@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="137"><![CDATA[Santa Monica]]></city>
+<venue id="222"><![CDATA[KCRW Studios]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>KCRW+Studios</venue>
+</flashlabel>
+<showdate>Tuesday, April 04, 1995</showdate>
+<shownavi><previousshow>354</previousshow>
+<nextshow>355</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="2" id="31"><![CDATA[Subterranean Homesick Alien]]></track>
+<track num="3" id="24"><![CDATA[Bullet Proof.. I Wish I Was]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=289]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

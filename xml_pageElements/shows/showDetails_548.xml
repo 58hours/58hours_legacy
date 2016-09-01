@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="1"><![CDATA[Los Angeles]]></city>
+<venue id="395"><![CDATA[The Palladium]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>The+Palladium</venue>
+</flashlabel>
+<showdate>Tuesday, July 13, 1993</showdate>
+<shownavi><previousshow>67</previousshow>
+<nextshow>68</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[Lucky1]]></member>
+<member id=""><![CDATA[blackmonolith]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=548]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

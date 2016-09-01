@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="42"><![CDATA[London]]></city>
+<venue id="179"><![CDATA[BBC Broadcasting House]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>BBC+Broadcasting+House</venue>
+</flashlabel>
+<showdate>Wednesday, May 28, 1997</showdate>
+<shownavi><previousshow>112</previousshow>
+<nextshow>305</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="2" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="3" id="35"><![CDATA[No Surprises]]></track>
+<track num="4" id="34"><![CDATA[Climbing Up The Walls]]></track>
+<track num="5" id="4"><![CDATA[Exit Music (for a film)]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=304]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

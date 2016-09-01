@@ -1,0 +1,135 @@
+.linkageStuff {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; color: #CCCCCC; text-decoration: none}
+.darkerLinkage {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666666;
+	text-decoration: none;
+}
+.blueishlinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #0066CC;
+	text-decoration: none;
+}
+.mainBodyText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #333333;
+}
+.disclaimerText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #999999;
+}
+#wrapper
+{
+	background-color:#000033
+}
+#spotlightImage
+{
+	width:800px;
+	border-color: #FFF;
+	border-width: 1px;
+	border-style: solid;
+}
+#mainBody
+{
+	width:800px;
+	background-color:#FFF;
+	border-color: #FFF;
+	border-width: 1px;
+	border-style: solid;
+	height:auto;
+	
+}
+#mostRecentShow
+{
+	background-color:#FFFFFF;
+	width:500px;
+	text-align:left;
+	float:left;
+}
+#homeImage
+{
+}
+#loginBoxVertical
+{
+	float:right;
+	right:0;
+	background-color:#FFFFFF;
+	height:100%;
+	width:200px;
+	margin: auto;
+	text-align: left;
+	border-left-color: #999;
+	border-left-width: 1px;
+	border-left-style: dotted;
+	padding: 10px;
+	position:relative;
+}
+#browseDatabase
+{
+	left:0;
+	top:0;
+	float:left;
+	margin: auto;
+	width:560px;
+	text-align: left;
+	padding: 2px;
+	position:relative;
+}
+#footer
+{
+	clear: both;
+	background-color: #FFF;
+	width: 800px;
+	margin: auto;
+	text-align: center;
+	position: relative;
+	border-color: #666;
+	border-width: 1px 0 0 0;
+	border-style: dotted none none none;
+}
+#showDetails
+{
+background-color:#000033
+}
+#showSetlist
+{
+background-color:#000033
+}
+#showImages
+{
+background-color:#000033
+}
+#showReviews
+{
+background-color:#000033
+}
+#showMembers
+{
+background-color:#000033
+}
+#showLiveConnect
+{
+background-color:#000033
+}
+#showLeftWrapper
+{
+background-color:#000033
+}
+#showRightWrapper
+{
+background-color:#000033
+}
+#prevNextShowNavi
+{
+background-color:#000033
+}
+#miniHeader
+{
+}

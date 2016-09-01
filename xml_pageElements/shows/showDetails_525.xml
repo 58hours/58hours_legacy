@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="215"><![CDATA[St. Albans]]></city>
+<venue id="378"><![CDATA[Malborough Club]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Malborough+Club</venue>
+</flashlabel>
+<showdate>Thursday, February 11, 1993</showdate>
+<shownavi><previousshow>494</previousshow>
+<nextshow>493</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=525]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

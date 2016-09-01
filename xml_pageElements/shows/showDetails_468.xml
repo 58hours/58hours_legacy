@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="197"><![CDATA[Hull]]></city>
+<venue id="349"><![CDATA[Adelphi]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Adelphi</venue>
+</flashlabel>
+<showdate>Sunday, May 31, 1992</showdate>
+<shownavi><previousshow>467</previousshow>
+<nextshow>469</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=468]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

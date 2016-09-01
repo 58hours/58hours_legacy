@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="46"><![CDATA[Reading]]></city>
+<venue id="24"><![CDATA[Royal Berks Social Club]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Royal+Berks+Social+Club</venue>
+</flashlabel>
+<showdate>Monday, February 21, 1994</showdate>
+<shownavi><previousshow>71</previousshow>
+<nextshow>79</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="76"><![CDATA[Maquilladora]]></track>
+<track num="2" id="20"><![CDATA[Bones]]></track>
+<track num="3" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="4" id="86"><![CDATA[The Trickster]]></track>
+<track num="5" id="21"><![CDATA[(Nice Dream)]]></track>
+<track num="6" id="82"><![CDATA[Killer Cars]]></track>
+<track num="7" id="26"><![CDATA[Sulk]]></track>
+<track num="8" id="22"><![CDATA[Just]]></track>
+<track num="9" id="17"><![CDATA[The Bends]]></track>
+<track num="10" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="11" id="10"><![CDATA[Anyone Can Play Guitar]]></track>
+<track num="12" id="13"><![CDATA[Prove Yourself]]></track>
+<track num="13" id="6"><![CDATA[Creep]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[sticky1]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=182]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="19"><![CDATA[Scotland]]></locale>
+<city id="43"><![CDATA[Glasgow]]></city>
+<venue id="11"><![CDATA[King Tut's Wah Wah Hut]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>King+Tut%27s+Wah+Wah+Hut</venue>
+</flashlabel>
+<showdate>Wednesday, November 04, 1992</showdate>
+<shownavi><previousshow>478</previousshow>
+<nextshow>476</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=477]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

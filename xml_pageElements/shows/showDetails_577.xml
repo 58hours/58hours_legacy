@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="2"><![CDATA[San Francisco]]></city>
+<venue id="14"><![CDATA[Slim's]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Slim%27s</venue>
+</flashlabel>
+<showdate>Thursday, July 13, 1995</showdate>
+<shownavi><previousshow>413</previousshow>
+<nextshow>414</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=577]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

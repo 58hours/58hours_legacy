@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="16"><![CDATA[Missouri]]></locale>
+<city id="104"><![CDATA[St. Louis]]></city>
+<venue id="383"><![CDATA[American Theater]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>American+Theater</venue>
+</flashlabel>
+<showdate>Sunday, October 17, 1993</showdate>
+<shownavi><previousshow>531</previousshow>
+<nextshow>529</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=530]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

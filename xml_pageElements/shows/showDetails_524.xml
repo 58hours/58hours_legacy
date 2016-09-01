@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="210"><![CDATA[Canterbury]]></city>
+<venue id="377"><![CDATA[Canterbury University]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Canterbury+University</venue>
+</flashlabel>
+<showdate>Monday, October 12, 1992</showdate>
+<shownavi><previousshow>443</previousshow>
+<nextshow>444</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=524]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

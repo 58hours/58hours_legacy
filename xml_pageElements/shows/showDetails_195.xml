@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="10"><![CDATA[Illinois]]></locale>
+<city id="6"><![CDATA[Chicago]]></city>
+<venue id="58"><![CDATA[Riviera Theatre]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Riviera+Theatre</venue>
+</flashlabel>
+<showdate>Thursday, August 07, 1997</showdate>
+<shownavi><previousshow>251</previousshow>
+<nextshow>269</nextshow>
+</shownavi>
+<support><![CDATA[Teenage Fanclub]]></support>
+<setlist>
+<main>
+<track num="1" id="33"><![CDATA[Fitter Happier]]></track>
+<track num="2" id="36"><![CDATA[Lucky]]></track>
+<track num="3" id="22"><![CDATA[Just]]></track>
+<track num="4" id="16"><![CDATA[Planet Telex]]></track>
+<track num="5" id="29"><![CDATA[Airbag]]></track>
+<track num="6" id="24"><![CDATA[Bullet Proof.. I Wish I Was]]></track>
+<track num="7" id="34"><![CDATA[Climbing Up The Walls]]></track>
+<track num="8" id="35"><![CDATA[No Surprises]]></track>
+<track num="9" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="10" id="4"><![CDATA[Exit Music (for a film)]]></track>
+<track num="11" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="12" id="32"><![CDATA[Let Down]]></track>
+<track num="13" id="2"><![CDATA[Karma Police]]></track>
+<track num="14" id="20"><![CDATA[Bones]]></track>
+<track num="15" id="17"><![CDATA[The Bends]]></track>
+<track num="16" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="17" id="23"><![CDATA[My Iron Lung]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[rossterfarian]]></member>
+<member id=""><![CDATA[radiohead8989]]></member>
+<member id=""><![CDATA[dualingeyes]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=195]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

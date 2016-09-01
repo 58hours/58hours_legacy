@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="42"><![CDATA[London]]></city>
+<venue id="472"><![CDATA[BBC Radio Theatre]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>BBC+Radio+Theatre</venue>
+</flashlabel>
+<showdate>Tuesday, April 01, 2008</showdate>
+<shownavi><previousshow>618</previousshow>
+<nextshow>620</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="154"><![CDATA[Bodysnatchers]]></track>
+<track num="2" id="166"><![CDATA[All I Need]]></track>
+<track num="3" id="65"><![CDATA[Nude]]></track>
+<track num="4" id="29"><![CDATA[Airbag]]></track>
+<track num="5" id="116"><![CDATA[Reckoner]]></track>
+<track num="6" id="37"><![CDATA[The Tourist]]></track>
+<track num="7" id="160"><![CDATA[House of Cards]]></track>
+<track num="8" id="153"><![CDATA[Weird Fishes/Arpeggi]]></track>
+<track num="9" id="36"><![CDATA[Lucky]]></track>
+<track num="10" id="38"><![CDATA[Everything In Its Right Place]]></track>
+</main>
+<encore1>
+<track num="11" id="167"><![CDATA[Faust Arp]]></track>
+</encore1>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[gabi]]></member>
+<member id=""><![CDATA[echo_park]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=629]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

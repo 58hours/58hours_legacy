@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="12"><![CDATA[Texas]]></locale>
+<city id="220"><![CDATA[Austin]]></city>
+<venue id="399"><![CDATA[The Terrace]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>The+Terrace</venue>
+</flashlabel>
+<showdate>Sunday, September 19, 1993</showdate>
+<shownavi><previousshow>551</previousshow>
+<nextshow>553</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=550]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

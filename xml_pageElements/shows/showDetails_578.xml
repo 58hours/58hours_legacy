@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="36"><![CDATA[Arizona]]></locale>
+<city id="238"><![CDATA[Mesa]]></city>
+<venue id="419"><![CDATA[Nile's Theater]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Nile%27s+Theater</venue>
+</flashlabel>
+<showdate>Saturday, July 15, 1995</showdate>
+<shownavi><previousshow>414</previousshow>
+<nextshow>574</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=578]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="5"><![CDATA[Colorado]]></locale>
+<city id="217"><![CDATA[Boulder]]></city>
+<venue id="396"><![CDATA[Fox Theatre]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Fox+Theatre</venue>
+</flashlabel>
+<showdate>Monday, July 19, 1993</showdate>
+<shownavi><previousshow>68</previousshow>
+<nextshow>210</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=549]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

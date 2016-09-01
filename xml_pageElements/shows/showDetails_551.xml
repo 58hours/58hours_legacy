@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="12"><![CDATA[Texas]]></locale>
+<city id="22"><![CDATA[Dallas]]></city>
+<venue id="398"><![CDATA[Trees]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Trees</venue>
+</flashlabel>
+<showdate>Saturday, September 18, 1993</showdate>
+<shownavi><previousshow>552</previousshow>
+<nextshow>550</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=551]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

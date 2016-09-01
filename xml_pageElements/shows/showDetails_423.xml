@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="184"><![CDATA[Nottingham]]></city>
+<venue id="314"><![CDATA[Nottingham Arena]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Nottingham+Arena</venue>
+</flashlabel>
+<showdate>Saturday, November 29, 2003</showdate>
+<tour id="9"><![CDATA[Hail To The Thief]]></tour>
+<shownavi><previousshow>422</previousshow>
+<nextshow>424</nextshow>
+</shownavi>
+<support><![CDATA[Asian Dub Foundation]]></support>
+<setlist>
+<main>
+<track num="1" id="75"><![CDATA[2&#43;2=5]]></track>
+<track num="2" id="93"><![CDATA[Sit Down. Stand Up.]]></track>
+<track num="3" id="46"><![CDATA[Morning Bell]]></track>
+<track num="4" id="95"><![CDATA[Where I End and You Begin]]></track>
+<track num="5" id="39"><![CDATA[Kid A]]></track>
+<track num="6" id="138"><![CDATA[Backdrifts]]></track>
+<track num="7" id="118"><![CDATA[I Will]]></track>
+<track num="8" id="40"><![CDATA[National Anthem]]></track>
+<track num="9" id="92"><![CDATA[Wolf at the Door]]></track>
+<track num="10" id="88"><![CDATA[Scatterbrain]]></track>
+<track num="11" id="29"><![CDATA[Airbag]]></track>
+<track num="12" id="34"><![CDATA[Climbing Up The Walls]]></track>
+<track num="13" id="49"><![CDATA[Pyramid Song]]></track>
+<track num="14" id="45"><![CDATA[Idioteque]]></track>
+<track num="15" id="61"><![CDATA[There There]]></track>
+<track num="16" id="30"><![CDATA[Paranoid Android]]></track>
+</main>
+<encore1>
+<track num="17" id="22"><![CDATA[Just]]></track>
+<track num="18" id="60"><![CDATA[Sail To The Moon]]></track>
+<track num="19" id="28"><![CDATA[Punch Up At a Wedding]]></track>
+<track num="20" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+</encore1>
+<encore2>
+<track num="21" id="51"><![CDATA[You And Whose Army?]]></track>
+<track num="22" id="17"><![CDATA[The Bends]]></track>
+<track num="23" id="67"><![CDATA[Fog]]></track>
+<track num="24" id="38"><![CDATA[Everything In Its Right Place]]></track>
+</encore2>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[yesyorke]]></member>
+<member id=""><![CDATA[emily]]></member>
+<member id=""><![CDATA[highway61]]></member>
+<member id=""><![CDATA[paulmusson]]></member>
+<member id=""><![CDATA[mandyr]]></member>
+<member id=""><![CDATA[nanakey]]></member>
+<member id=""><![CDATA[enigma]]></member>
+<member id=""><![CDATA[when animals attack]]></member>
+<member id=""><![CDATA[teacher1000]]></member>
+<member id=""><![CDATA[thebaptist]]></member>
+<member id=""><![CDATA[timedilute]]></member>
+<member id=""><![CDATA[poundsnpence]]></member>
+<member id=""><![CDATA[legorich]]></member>
+<member id=""><![CDATA[tharpley]]></member>
+<member id=""><![CDATA[Kid Julian]]></member>
+<member id=""><![CDATA[majestic103]]></member>
+<member id=""><![CDATA[pablothewizard]]></member>
+<member id=""><![CDATA[teacher]]></member>
+<member id=""><![CDATA[Geox]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=423]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

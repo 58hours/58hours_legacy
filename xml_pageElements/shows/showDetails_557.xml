@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="11"><![CDATA[Georgia]]></locale>
+<city id="225"><![CDATA[Athens]]></city>
+<venue id="404"><![CDATA[40 Watt Club]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>40+Watt+Club</venue>
+</flashlabel>
+<showdate>Monday, September 27, 1993</showdate>
+<shownavi><previousshow>556</previousshow>
+<nextshow>558</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=557]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

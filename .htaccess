@@ -1,0 +1,3 @@
+RewriteEngine off
+RewriteBase /
+RewriteRule ^(.*)$ - [L,R=503]

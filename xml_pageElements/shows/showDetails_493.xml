@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="46"><![CDATA[Reading]]></city>
+<venue id="340"><![CDATA[After Dark]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>After+Dark</venue>
+</flashlabel>
+<showdate>Saturday, February 13, 1993</showdate>
+<shownavi><previousshow>525</previousshow>
+<nextshow>492</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=493]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="7"><![CDATA[Northern Ireland]]></locale>
+<city id="61"><![CDATA[Belfast]]></city>
+<venue id="81"><![CDATA[Waterfront]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Waterfront</venue>
+</flashlabel>
+<showdate>Monday, May 19, 2003</showdate>
+<shownavi><previousshow>230</previousshow>
+<nextshow>229</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="61"><![CDATA[There There]]></track>
+<track num="2" id="75"><![CDATA[2&#43;2=5]]></track>
+<track num="3" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="4" id="4"><![CDATA[Exit Music (for a film)]]></track>
+<track num="5" id="88"><![CDATA[Scatterbrain]]></track>
+<track num="6" id="39"><![CDATA[Kid A]]></track>
+<track num="7" id="29"><![CDATA[Airbag]]></track>
+<track num="8" id="31"><![CDATA[Subterranean Homesick Alien]]></track>
+<track num="9" id="138"><![CDATA[Backdrifts]]></track>
+<track num="10" id="60"><![CDATA[Sail To The Moon]]></track>
+<track num="11" id="54"><![CDATA[Dollars & Cents]]></track>
+<track num="12" id="94"><![CDATA[Go To Sleep]]></track>
+<track num="13" id="89"><![CDATA[Myxomatosis]]></track>
+<track num="14" id="95"><![CDATA[Where I End and You Begin]]></track>
+<track num="15" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="16" id="45"><![CDATA[Idioteque]]></track>
+<track num="17" id="38"><![CDATA[Everything In Its Right Place]]></track>
+<track num="18" id="137"><![CDATA[The Gloaming]]></track>
+</main>
+<encore1>
+<track num="19" id="28"><![CDATA[Punch Up At a Wedding]]></track>
+<track num="20" id="22"><![CDATA[Just]]></track>
+<track num="21" id="19"><![CDATA[Fake Plastic Trees]]></track>
+</encore1>
+<encore2>
+<track num="22" id="93"><![CDATA[Sit Down. Stand Up.]]></track>
+<track num="23" id="36"><![CDATA[Lucky]]></track>
+</encore2>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[bateman]]></member>
+<member id=""><![CDATA[adelaney]]></member>
+<member id=""><![CDATA[peterpan]]></member>
+<member id=""><![CDATA[duder]]></member>
+<member id=""><![CDATA[mandyr]]></member>
+<member id=""><![CDATA[andyowen]]></member>
+<member id=""><![CDATA[stooge]]></member>
+<member id=""><![CDATA[when animals attack]]></member>
+<member id=""><![CDATA[Robert2255]]></member>
+<member id=""><![CDATA[radioreverie]]></member>
+<member id=""><![CDATA[radiohead8989]]></member>
+<member id=""><![CDATA[okcokc]]></member>
+<member id=""><![CDATA[ccw76]]></member>
+<member id=""><![CDATA[optimistic]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=228]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

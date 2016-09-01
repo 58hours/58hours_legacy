@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="4"><![CDATA[Germany]]></country>
+<locale id="107"><![CDATA[Niedersachsen]]></locale>
+<city id="150"><![CDATA[Scheeßel]]></city>
+<venue id="250"><![CDATA[Hurricane Festival]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Hurricane+Festival</venue>
+</flashlabel>
+<showdate>Sunday, June 22, 2003</showdate>
+<shownavi><previousshow>357</previousshow>
+<nextshow>335</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="61"><![CDATA[There There]]></track>
+<track num="2" id="75"><![CDATA[2&#43;2=5]]></track>
+<track num="3" id="46"><![CDATA[Morning Bell]]></track>
+<track num="4" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="5" id="36"><![CDATA[Lucky]]></track>
+<track num="6" id="88"><![CDATA[Scatterbrain]]></track>
+<track num="7" id="40"><![CDATA[National Anthem]]></track>
+<track num="8" id="95"><![CDATA[Where I End and You Begin]]></track>
+<track num="9" id="49"><![CDATA[Pyramid Song]]></track>
+<track num="10" id="35"><![CDATA[No Surprises]]></track>
+<track num="11" id="94"><![CDATA[Go To Sleep]]></track>
+<track num="12" id="28"><![CDATA[Punch Up At a Wedding]]></track>
+<track num="13" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="14" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="15" id="45"><![CDATA[Idioteque]]></track>
+<track num="16" id="38"><![CDATA[Everything In Its Right Place]]></track>
+</main>
+<encore1>
+<track num="17" id="60"><![CDATA[Sail To The Moon]]></track>
+<track num="18" id="34"><![CDATA[Climbing Up The Walls]]></track>
+<track num="19" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+</encore1>
+<encore2>
+<track num="20" id="22"><![CDATA[Just]]></track>
+</encore2>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[bateman]]></member>
+<member id=""><![CDATA[passenger]]></member>
+<member id=""><![CDATA[surfling]]></member>
+<member id=""><![CDATA[No paranoia]]></member>
+<member id=""><![CDATA[corwood]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=329]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

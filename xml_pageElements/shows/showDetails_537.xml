@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="13"><![CDATA[Ireland]]></country>
+<locale id="38"><![CDATA[Co. Dublin]]></locale>
+<city id="58"><![CDATA[Dublin]]></city>
+<venue id="387"><![CDATA[Rock Garden]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Rock+Garden</venue>
+</flashlabel>
+<showdate>Friday, May 14, 1993</showdate>
+<shownavi><previousshow>536</previousshow>
+<nextshow>520</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=537]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

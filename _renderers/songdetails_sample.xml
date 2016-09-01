@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songdetails>
+	<general>
+		<song external_song_id="dg4AOK49YrFrzYiL">Constructive Summer</song>
+		<band external_group_id="">The Hold Steady</band>
+	</general>
+	<studioinfo>
+		<releases>
+			<release external_release_id="">
+				<title>Stay Positive</title>
+				<releaseDate>2008-07-15</releaseDate>
+				<label external_label_id="">Vagrant</label>
+				<location type="country" external_id="">USA</location>
+				<releasetype>LP</releasetype>
+				<songtype>studio</songtype>
+				<image>/images/staypositive.jpg</image>
+			</release>
+		</releases>
+	</studioinfo>
+	<liveinfo total="7" opened="6" closed="2" earliest="1" latest="7" average="2">
+		<history>
+			<lifespan>
+				<stat year="2009" numtimes="1" />
+				<stat year="2008" numtimes="6" />
+			</lifespan>
+			<firstbracket>
+				<show external_show_id="" date="">
+					<venue external_venue_id=""></venue>
+					<city external_city_id=""></city>
+					<locale external_locale_id=""></locale>
+					<country external_country_id=""></country>
+				</show>
+			</firstbracket>
+			<lastbracket>
+				<show external_show_id="" date="">
+					<venue external_venue_id=""></venue>
+					<city external_city_id=""></city>
+					<locale external_locale_id=""></locale>
+					<country external_country_id=""></country>
+				</show>
+			</lastbracket>
+		</history>
+		
+		<neighbors>
+			<prior>
+				<song external_song_id="" percentage="14">Party Pit</song>
+			</prior>
+			<following>
+				<song external_song_id="" percentage="43">Hot Soft Light</song>
+				<song external_song_id="" percentage="29">Multitude of Casualties</song>
+				<song external_song_id="" percentage="14">The Swish</song>
+				<song external_song_id="" percentage="14">Ask Her For Adderall</song>
+			</following>
+		</neighbors>
+	</liveinfo>
+</songdetails>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="16"><![CDATA[Italy]]></country>
+<locale id="112"><![CDATA[Lazio]]></locale>
+<city id="165"><![CDATA[Rome]]></city>
+<venue id="281"><![CDATA[Plaza San Giovanni]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Plaza+San+Giovanni</venue>
+</flashlabel>
+<showdate>Monday, May 01, 1995</showdate>
+<shownavi><previousshow>356</previousshow>
+<nextshow>360</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="18"><![CDATA[High and Dry]]></track>
+<track num="2" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="3" id="12"><![CDATA[Vegetable]]></track>
+<track num="4" id="5"><![CDATA[You]]></track>
+<track num="5" id="13"><![CDATA[Prove Yourself]]></track>
+<track num="6" id="16"><![CDATA[Planet Telex]]></track>
+<track num="7" id="24"><![CDATA[Bullet Proof.. I Wish I Was]]></track>
+<track num="8" id="6"><![CDATA[Creep]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=361]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

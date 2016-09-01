@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="11"><![CDATA[Argentina]]></country>
+<locale id="135"><![CDATA[Buenos Aires Federal District]]></locale>
+<city id="266"><![CDATA[Buenos Aires]]></city>
+<venue id="489"><![CDATA[Club Ciudad]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Club+Ciudad</venue>
+</flashlabel>
+<showdate>Tuesday, March 24, 2009</showdate>
+<tour id="15"><![CDATA[Latin/South America 2009 (Spring) In Rainbows]]></tour>
+<shownavi><previousshow>674</previousshow>
+<nextshow>676</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=675]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

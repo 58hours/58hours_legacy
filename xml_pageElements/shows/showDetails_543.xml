@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="26"><![CDATA[Massachusetts]]></locale>
+<city id="8"><![CDATA[Boston]]></city>
+<venue id="276"><![CDATA[Venus de Milo]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Venus+de+Milo</venue>
+</flashlabel>
+<showdate>Tuesday, June 22, 1993</showdate>
+<shownavi><previousshow>64</previousshow>
+<nextshow>544</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=543]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

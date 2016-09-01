@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="2"><![CDATA[San Francisco]]></city>
+<venue id="42"><![CDATA[The Fillmore]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>The+Fillmore</venue>
+</flashlabel>
+<showdate>Wednesday, March 27, 1996</showdate>
+<shownavi><previousshow>137</previousshow>
+<nextshow>24</nextshow>
+</shownavi>
+<support><![CDATA[David Gray]]></support>
+<setlist>
+<main>
+<track num="1" id="77"><![CDATA[I Promise]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[Covebum]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=138]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

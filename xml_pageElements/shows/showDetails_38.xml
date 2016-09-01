@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="8"><![CDATA[Spain]]></country>
+<locale id="85"><![CDATA[País Vasco]]></locale>
+<city id="116"><![CDATA[Bilbao]]></city>
+<venue id="183"><![CDATA[Bull Ring]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Bull+Ring</venue>
+</flashlabel>
+<showdate>Saturday, May 26, 2001</showdate>
+<shownavi><previousshow>37</previousshow>
+<nextshow>102</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="40"><![CDATA[National Anthem]]></track>
+<track num="2" id="46"><![CDATA[Morning Bell]]></track>
+<track num="3" id="36"><![CDATA[Lucky]]></track>
+<track num="4" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="5" id="44"><![CDATA[In Limbo]]></track>
+<track num="6" id="48"><![CDATA[Packt Like Sardines in a Crushd Tin Box]]></track>
+<track num="7" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="8" id="4"><![CDATA[Exit Music (for a film)]]></track>
+<track num="9" id="51"><![CDATA[You And Whose Army?]]></track>
+<track num="10" id="35"><![CDATA[No Surprises]]></track>
+<track num="11" id="29"><![CDATA[Airbag]]></track>
+<track num="12" id="54"><![CDATA[Dollars & Cents]]></track>
+<track num="13" id="49"><![CDATA[Pyramid Song]]></track>
+<track num="14" id="53"><![CDATA[Knives Out]]></track>
+<track num="15" id="17"><![CDATA[The Bends]]></track>
+<track num="16" id="45"><![CDATA[Idioteque]]></track>
+<track num="17" id="38"><![CDATA[Everything In Its Right Place]]></track>
+</main>
+<encore1>
+<track num="18" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="19" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="20" id="34"><![CDATA[Climbing Up The Walls]]></track>
+</encore1>
+<encore2>
+<track num="21" id="41"><![CDATA[How To Disappear Completely]]></track>
+<track num="22" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="23" id="2"><![CDATA[Karma Police]]></track>
+</encore2>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[peterpan]]></member>
+<member id=""><![CDATA[yolanda]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=38]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="42"><![CDATA[London]]></city>
+<venue id="179"><![CDATA[BBC Broadcasting House]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>BBC+Broadcasting+House</venue>
+</flashlabel>
+<showdate>Saturday, May 31, 1997</showdate>
+<shownavi><previousshow>304</previousshow>
+<nextshow>113</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="35"><![CDATA[No Surprises]]></track>
+<track num="2" id="29"><![CDATA[Airbag]]></track>
+<track num="3" id="30"><![CDATA[Paranoid Android]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=305]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

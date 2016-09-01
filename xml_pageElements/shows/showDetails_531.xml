@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="10"><![CDATA[Illinois]]></locale>
+<city id="218"><![CDATA[Dekalb]]></city>
+<venue id="384"><![CDATA[Student Center (Northern Illinois University)]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Student+Center+%28Northern+Illinois+University%29</venue>
+</flashlabel>
+<showdate>Saturday, October 16, 1993</showdate>
+<shownavi><previousshow>569</previousshow>
+<nextshow>530</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=531]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

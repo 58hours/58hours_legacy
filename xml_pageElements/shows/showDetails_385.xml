@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="18"><![CDATA[Mountain View]]></city>
+<venue id="76"><![CDATA[Shoreline Amphitheatre]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Shoreline+Amphitheatre</venue>
+</flashlabel>
+<showdate>Saturday, October 26, 2002</showdate>
+<shownavi><previousshow>217</previousshow>
+<nextshow>384</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="38"><![CDATA[Everything In Its Right Place]]></track>
+<track num="2" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="3" id="60"><![CDATA[Sail To The Moon]]></track>
+<track num="4" id="56"><![CDATA[Like Spinning Plates]]></track>
+<track num="5" id="61"><![CDATA[There There]]></track>
+<track num="6" id="49"><![CDATA[Pyramid Song]]></track>
+<track num="7" id="36"><![CDATA[Lucky]]></track>
+<track num="8" id="141"><![CDATA[After the Gold Rush]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[adelaney]]></member>
+<member id=""><![CDATA[peterpan]]></member>
+<member id=""><![CDATA[jessica]]></member>
+<member id=""><![CDATA[lex]]></member>
+<member id=""><![CDATA[suckingonalemon]]></member>
+<member id=""><![CDATA[dymo23]]></member>
+<member id=""><![CDATA[daviddi33]]></member>
+<member id=""><![CDATA[mahntoh]]></member>
+</memberspresent>
+<shownotes><![CDATA[Thom solo & acoustic.]]></shownotes>
+<post_comments><![CDATA[post_comments.php?showID=385]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

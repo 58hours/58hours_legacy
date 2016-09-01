@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="5"><![CDATA[Colorado]]></locale>
+<city id="16"><![CDATA[Morrison]]></city>
+<venue id="278"><![CDATA[Red Rocks Amphitheatre]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Red+Rocks+Amphitheatre</venue>
+</flashlabel>
+<showdate>Wednesday, June 20, 2001</showdate>
+<shownavi><previousshow>7</previousshow>
+<nextshow>58</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=1]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

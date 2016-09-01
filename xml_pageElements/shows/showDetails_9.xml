@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="16"><![CDATA[Italy]]></country>
+<locale id="96"><![CDATA[Sicily]]></locale>
+<city id="130"><![CDATA[Catania]]></city>
+<venue id="204"><![CDATA[Catania Stadium]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Catania+Stadium</venue>
+</flashlabel>
+<showdate>Sunday, August 06, 1995</showdate>
+<shownavi><previousshow>373</previousshow>
+<nextshow>259</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="2" id="20"><![CDATA[Bones]]></track>
+<track num="3" id="18"><![CDATA[High and Dry]]></track>
+<track num="4" id="6"><![CDATA[Creep]]></track>
+<track num="5" id="24"><![CDATA[Bullet Proof.. I Wish I Was]]></track>
+<track num="6" id="17"><![CDATA[The Bends]]></track>
+<track num="7" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="8" id="22"><![CDATA[Just]]></track>
+<track num="9" id="19"><![CDATA[Fake Plastic Trees]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=9]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

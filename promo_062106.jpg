@@ -1,0 +1,7 @@
+<?php 
+$myShowID=$HTTP_GET_VARS['showID'];
+$newtitle="new comments posted for show " . $myShowID;
+mail("comments@58hours.com",$newtitle,"new comment submitted","From: 58hours Comments <comment-forwards@58hours.com>");
+header("Location: http://58hours.com/post_comments.php?state=posted"); 
+?> 
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="1"><![CDATA[Los Angeles]]></city>
+<venue id="20"><![CDATA[The Palace]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>The+Palace</venue>
+</flashlabel>
+<showdate>Thursday, June 15, 1995</showdate>
+<shownavi><previousshow>412</previousshow>
+<nextshow>325</nextshow>
+</shownavi>
+<support><![CDATA[David Gray]]></support>
+<setlist>
+<main>
+<track num="1" id="17"><![CDATA[The Bends]]></track>
+<track num="2" id="22"><![CDATA[Just]]></track>
+<track num="3" id="10"><![CDATA[Anyone Can Play Guitar]]></track>
+<track num="4" id="18"><![CDATA[High and Dry]]></track>
+<track num="5" id="16"><![CDATA[Planet Telex]]></track>
+<track num="6" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="7" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="8" id="6"><![CDATA[Creep]]></track>
+<track num="9" id="8"><![CDATA[Stop Whispering]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[jessica]]></member>
+<member id=""><![CDATA[blackmonolith]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=327]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

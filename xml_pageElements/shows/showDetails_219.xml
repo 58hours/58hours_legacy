@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="5"><![CDATA[Portugal]]></country>
+<locale id="48"><![CDATA[Lisboa]]></locale>
+<city id="72"><![CDATA[Lisbon]]></city>
+<venue id="115"><![CDATA[Coliseu dos Recreios]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Coliseu+dos+Recreios</venue>
+</flashlabel>
+<showdate>Tuesday, July 23, 2002</showdate>
+<shownavi><previousshow>218</previousshow>
+<nextshow>220</nextshow>
+</shownavi>
+<support><![CDATA[Four Tet]]></support>
+<setlist>
+<main>
+<track num="1" id="61"><![CDATA[There There]]></track>
+<track num="2" id="88"><![CDATA[Scatterbrain]]></track>
+<track num="3" id="60"><![CDATA[Sail To The Moon]]></track>
+<track num="4" id="92"><![CDATA[Wolf at the Door]]></track>
+<track num="5" id="89"><![CDATA[Myxomatosis]]></track>
+<track num="6" id="28"><![CDATA[Punch Up At a Wedding]]></track>
+<track num="7" id="93"><![CDATA[Sit Down. Stand Up.]]></track>
+<track num="8" id="36"><![CDATA[Lucky]]></track>
+<track num="9" id="2"><![CDATA[Karma Police]]></track>
+<track num="10" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="11" id="46"><![CDATA[Morning Bell]]></track>
+<track num="12" id="4"><![CDATA[Exit Music (for a film)]]></track>
+<track num="13" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="14" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="15" id="49"><![CDATA[Pyramid Song]]></track>
+<track num="16" id="45"><![CDATA[Idioteque]]></track>
+<track num="17" id="38"><![CDATA[Everything In Its Right Place]]></track>
+</main>
+<encore1>
+<track num="18" id="40"><![CDATA[National Anthem]]></track>
+<track num="19" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="20" id="94"><![CDATA[Go To Sleep]]></track>
+<track num="21" id="41"><![CDATA[How To Disappear Completely]]></track>
+</encore1>
+<encore2>
+<track num="22" id="90"><![CDATA[We Suck Young Blood]]></track>
+<track num="23" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+</encore2>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[peterpan]]></member>
+<member id=""><![CDATA[Vancouver]]></member>
+<member id=""><![CDATA[Midnight Cowboy]]></member>
+<member id=""><![CDATA[Jarly]]></member>
+<member id=""><![CDATA[Cipriano]]></member>
+<member id=""><![CDATA[veggy_head]]></member>
+<member id=""><![CDATA[mandyr]]></member>
+<member id=""><![CDATA[lost-child]]></member>
+<member id=""><![CDATA[when animals attack]]></member>
+<member id=""><![CDATA[radioreverie]]></member>
+<member id=""><![CDATA[okcokc]]></member>
+<member id=""><![CDATA[bigdaddy]]></member>
+<member id=""><![CDATA[Geox]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=219]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

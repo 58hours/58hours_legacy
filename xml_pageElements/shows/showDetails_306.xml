@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="6"><![CDATA[Canada]]></country>
+<locale id="4"><![CDATA[Ontario]]></locale>
+<city id="20"><![CDATA[Toronto]]></city>
+<venue id="235"><![CDATA[CFNY Studios]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>CFNY+Studios</venue>
+</flashlabel>
+<showdate>Monday, June 02, 1997</showdate>
+<shownavi><previousshow>305</previousshow>
+<nextshow>114</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="1"><![CDATA[Electioneering]]></track>
+<track num="2" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="3" id="37"><![CDATA[The Tourist]]></track>
+<track num="4" id="31"><![CDATA[Subterranean Homesick Alien]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=306]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

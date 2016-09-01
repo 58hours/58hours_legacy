@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="106"><![CDATA[Alabama]]></locale>
+<city id="147"><![CDATA[Birmingham]]></city>
+<venue id="247"><![CDATA[Civic Auditorium]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Civic+Auditorium</venue>
+</flashlabel>
+<showdate>Tuesday, September 12, 1995</showdate>
+<shownavi><previousshow>573</previousshow>
+<nextshow>571</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="17"><![CDATA[The Bends]]></track>
+<track num="2" id="20"><![CDATA[Bones]]></track>
+<track num="3" id="21"><![CDATA[(Nice Dream)]]></track>
+<track num="4" id="18"><![CDATA[High and Dry]]></track>
+<track num="5" id="36"><![CDATA[Lucky]]></track>
+<track num="6" id="6"><![CDATA[Creep]]></track>
+<track num="7" id="5"><![CDATA[You]]></track>
+<track num="8" id="22"><![CDATA[Just]]></track>
+<track num="9" id="19"><![CDATA[Fake Plastic Trees]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[darkalian]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=322]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

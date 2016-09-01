@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="4"><![CDATA[Germany]]></country>
+<locale id="87"><![CDATA[Hamburg]]></locale>
+<city id="119"><![CDATA[Hamburg]]></city>
+<venue id="302"><![CDATA[Color Line Arena]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Color+Line+Arena</venue>
+</flashlabel>
+<showdate>Saturday, November 15, 2003</showdate>
+<tour id="9"><![CDATA[Hail To The Thief]]></tour>
+<shownavi><previousshow>407</previousshow>
+<nextshow>409</nextshow>
+</shownavi>
+<support><![CDATA[Asian Dub Foundation]]></support>
+<setlist>
+<main>
+<track num="1" id="137"><![CDATA[The Gloaming]]></track>
+<track num="2" id="75"><![CDATA[2&#43;2=5]]></track>
+<track num="3" id="46"><![CDATA[Morning Bell]]></track>
+<track num="4" id="89"><![CDATA[Myxomatosis]]></track>
+<track num="5" id="36"><![CDATA[Lucky]]></track>
+<track num="6" id="88"><![CDATA[Scatterbrain]]></track>
+<track num="7" id="4"><![CDATA[Exit Music (for a film)]]></track>
+<track num="8" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="9" id="94"><![CDATA[Go To Sleep]]></track>
+<track num="10" id="90"><![CDATA[We Suck Young Blood]]></track>
+<track num="11" id="60"><![CDATA[Sail To The Moon]]></track>
+<track num="12" id="61"><![CDATA[There There]]></track>
+<track num="13" id="54"><![CDATA[Dollars & Cents]]></track>
+<track num="14" id="2"><![CDATA[Karma Police]]></track>
+<track num="15" id="138"><![CDATA[Backdrifts]]></track>
+<track num="16" id="45"><![CDATA[Idioteque]]></track>
+<track num="17" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="18" id="93"><![CDATA[Sit Down. Stand Up.]]></track>
+</main>
+<encore1>
+<track num="19" id="95"><![CDATA[Where I End and You Begin]]></track>
+<track num="20" id="40"><![CDATA[National Anthem]]></track>
+<track num="21" id="28"><![CDATA[Punch Up At a Wedding]]></track>
+<track num="22" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+</encore1>
+<encore2>
+<track num="23" id="22"><![CDATA[Just]]></track>
+<track num="24" id="38"><![CDATA[Everything In Its Right Place]]></track>
+</encore2>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[bateman]]></member>
+<member id=""><![CDATA[Midnight Cowboy]]></member>
+<member id=""><![CDATA[mandyr]]></member>
+<member id=""><![CDATA[andyowen]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=408]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

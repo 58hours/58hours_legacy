@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="12"><![CDATA[Brazil]]></country>
+<locale id="134"><![CDATA[São Paulo]]></locale>
+<city id="265"><![CDATA[São Paulo]]></city>
+<venue id="488"><![CDATA[Chácara Do Jockey]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Ch%E1cara+Do+Jockey</venue>
+</flashlabel>
+<showdate>Sunday, March 22, 2009</showdate>
+<tour id="15"><![CDATA[Latin/South America 2009 (Spring) In Rainbows]]></tour>
+<shownavi><previousshow>673</previousshow>
+<nextshow>675</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[neekole]]></member>
+<member id=""><![CDATA[kiosia]]></member>
+<member id=""><![CDATA[jnunes]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=674]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

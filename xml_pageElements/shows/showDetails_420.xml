@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="4"><![CDATA[Germany]]></country>
+<locale id="70"><![CDATA[Berlin]]></locale>
+<city id="94"><![CDATA[Berlin]]></city>
+<venue id="312"><![CDATA[Huxley's Neue Welt]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Huxley%27s+Neue+Welt</venue>
+</flashlabel>
+<showdate>Monday, November 03, 1997</showdate>
+<shownavi><previousshow>257</previousshow>
+<nextshow>292</nextshow>
+</shownavi>
+<support><![CDATA[Sparklehorse]]></support>
+<setlist>
+<main>
+<track num="1" id="29"><![CDATA[Airbag]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=420]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

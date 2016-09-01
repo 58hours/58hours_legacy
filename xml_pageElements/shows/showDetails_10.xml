@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="12"><![CDATA[Texas]]></locale>
+<city id="22"><![CDATA[Dallas]]></city>
+<venue id="33"><![CDATA[Superpages.com Center]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Superpages.com+Center</venue>
+</flashlabel>
+<showdate>Wednesday, September 20, 1995</showdate>
+<shownavi><previousshow>374</previousshow>
+<nextshow>323</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="2" id="18"><![CDATA[High and Dry]]></track>
+<track num="3" id="16"><![CDATA[Planet Telex]]></track>
+<track num="4" id="10"><![CDATA[Anyone Can Play Guitar]]></track>
+<track num="5" id="22"><![CDATA[Just]]></track>
+<track num="6" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="7" id="6"><![CDATA[Creep]]></track>
+<track num="8" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="9" id="17"><![CDATA[The Bends]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[bptx]]></member>
+<member id=""><![CDATA[5dayweekend]]></member>
+<member id=""><![CDATA[cmilazzo]]></member>
+</memberspresent>
+<shownotes><![CDATA[Played "Creep", announced it as "Crap".]]></shownotes>
+<post_comments><![CDATA[post_comments.php?showID=10]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="13"><![CDATA[D.C.]]></locale>
+<city id="25"><![CDATA[Washington]]></city>
+<venue id="234"><![CDATA[R.F.K Stadium]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>R.F.K+Stadium</venue>
+</flashlabel>
+<showdate>Sunday, June 14, 1998</showdate>
+<shownavi><previousshow>30</previousshow>
+<nextshow>302</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="29"><![CDATA[Airbag]]></track>
+<track num="2" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="3" id="2"><![CDATA[Karma Police]]></track>
+<track num="4" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="5" id="36"><![CDATA[Lucky]]></track>
+<track num="6" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="7" id="6"><![CDATA[Creep]]></track>
+<track num="8" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[popartist]]></member>
+<member id=""><![CDATA[rmc336]]></member>
+<member id=""><![CDATA[strack]]></member>
+<member id=""><![CDATA[buddha]]></member>
+<member id=""><![CDATA[kstrack]]></member>
+<member id=""><![CDATA[czarina68]]></member>
+<member id=""><![CDATA[chules]]></member>
+<member id=""><![CDATA[okcokc]]></member>
+<member id=""><![CDATA[miked.]]></member>
+<member id=""><![CDATA[pure]]></member>
+<member id=""><![CDATA[megamegamega]]></member>
+<member id=""><![CDATA[geeveebee]]></member>
+<member id=""><![CDATA[Kris]]></member>
+<member id=""><![CDATA[rdiohd]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=301]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

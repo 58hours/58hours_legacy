@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="110"><![CDATA[Wisconsin]]></locale>
+<city id="233"><![CDATA[Milwaukee]]></city>
+<venue id="412"><![CDATA[The Rave]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>The+Rave</venue>
+</flashlabel>
+<showdate>Thursday, October 14, 1993</showdate>
+<shownavi><previousshow>567</previousshow>
+<nextshow>569</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=568]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

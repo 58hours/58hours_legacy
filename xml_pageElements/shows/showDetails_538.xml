@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="10"><![CDATA[Netherlands]]></country>
+<locale id="93"><![CDATA[Gelderland]]></locale>
+<city id="127"><![CDATA[Nijmegen]]></city>
+<venue id="389"><![CDATA[Vereeniging]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Vereeniging</venue>
+</flashlabel>
+<showdate>Tuesday, June 08, 1993</showdate>
+<shownavi><previousshow>60</previousshow>
+<nextshow>539</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=538]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

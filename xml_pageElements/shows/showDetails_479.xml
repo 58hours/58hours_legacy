@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="202"><![CDATA[Guildford]]></city>
+<venue id="354"><![CDATA[Surrey University]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Surrey+University</venue>
+</flashlabel>
+<showdate>Sunday, November 01, 1992</showdate>
+<shownavi><previousshow>480</previousshow>
+<nextshow>478</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=479]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

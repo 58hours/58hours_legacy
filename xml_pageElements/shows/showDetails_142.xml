@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="9"><![CDATA[Belgium]]></country>
+<locale id="101"><![CDATA[Brussels]]></locale>
+<city id="135"><![CDATA[Brussels]]></city>
+<venue id="274"><![CDATA[Luna Theatre]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Luna+Theatre</venue>
+</flashlabel>
+<showdate>Tuesday, December 05, 1995</showdate>
+<shownavi><previousshow>143</previousshow>
+<nextshow>141</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="17"><![CDATA[The Bends]]></track>
+<track num="2" id="20"><![CDATA[Bones]]></track>
+<track num="3" id="10"><![CDATA[Anyone Can Play Guitar]]></track>
+<track num="4" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="5" id="13"><![CDATA[Prove Yourself]]></track>
+<track num="6" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="7" id="36"><![CDATA[Lucky]]></track>
+<track num="8" id="6"><![CDATA[Creep]]></track>
+<track num="9" id="21"><![CDATA[(Nice Dream)]]></track>
+<track num="10" id="18"><![CDATA[High and Dry]]></track>
+<track num="11" id="16"><![CDATA[Planet Telex]]></track>
+<track num="12" id="10"><![CDATA[Anyone Can Play Guitar]]></track>
+<track num="13" id="22"><![CDATA[Just]]></track>
+<track num="14" id="15"><![CDATA[Blow Out]]></track>
+<track num="15" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="16" id="63"><![CDATA[True Love Waits]]></track>
+<track num="17" id="5"><![CDATA[You]]></track>
+<track num="18" id="71"><![CDATA[Banana Co.]]></track>
+<track num="19" id="123"><![CDATA[Nobody Does It Better]]></track>
+<track num="20" id="70"><![CDATA[Inside My Head]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=142]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

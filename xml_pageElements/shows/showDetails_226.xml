@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="8"><![CDATA[Spain]]></country>
+<locale id="86"><![CDATA[Valencia]]></locale>
+<city id="118"><![CDATA[Benicàssim]]></city>
+<venue id="184"><![CDATA[Festival Internacional de Benicassim]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Festival+Internacional+de+Benicassim</venue>
+</flashlabel>
+<showdate>Saturday, August 03, 2002</showdate>
+<shownavi><previousshow>225</previousshow>
+<nextshow>389</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="40"><![CDATA[National Anthem]]></track>
+<track num="2" id="46"><![CDATA[Morning Bell]]></track>
+<track num="3" id="36"><![CDATA[Lucky]]></track>
+<track num="4" id="2"><![CDATA[Karma Police]]></track>
+<track num="5" id="54"><![CDATA[Dollars & Cents]]></track>
+<track num="6" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="7" id="4"><![CDATA[Exit Music (for a film)]]></track>
+<track num="8" id="49"><![CDATA[Pyramid Song]]></track>
+<track num="9" id="28"><![CDATA[Punch Up At a Wedding]]></track>
+<track num="10" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="11" id="22"><![CDATA[Just]]></track>
+<track num="12" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="13" id="45"><![CDATA[Idioteque]]></track>
+<track num="14" id="38"><![CDATA[Everything In Its Right Place]]></track>
+</main>
+<encore1>
+<track num="15" id="61"><![CDATA[There There]]></track>
+</encore1>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[bateman]]></member>
+<member id=""><![CDATA[crp640]]></member>
+<member id=""><![CDATA[zara.]]></member>
+<member id=""><![CDATA[okcokc]]></member>
+<member id=""><![CDATA[megamegamega]]></member>
+<member id=""><![CDATA[Spencer]]></member>
+<member id=""><![CDATA[bigdaddy]]></member>
+<member id=""><![CDATA[gberg]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=226]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

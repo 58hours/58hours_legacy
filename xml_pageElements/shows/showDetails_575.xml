@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="7"><![CDATA[Japan]]></country>
+<locale id="44"><![CDATA[Kanagawa]]></locale>
+<city id="67"><![CDATA[Kawasaki]]></city>
+<venue id="107"><![CDATA[Club Citta]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Club+Citta</venue>
+</flashlabel>
+<showdate>Wednesday, June 28, 1995</showdate>
+<shownavi><previousshow>41</previousshow>
+<nextshow>576</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=575]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

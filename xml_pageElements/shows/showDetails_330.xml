@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="16"><![CDATA[Italy]]></country>
+<locale id="78"><![CDATA[Lombardy]]></locale>
+<city id="152"><![CDATA[Bergamo]]></city>
+<venue id="253"><![CDATA[Il Lazzaretto]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Il+Lazzaretto</venue>
+</flashlabel>
+<showdate>Monday, July 07, 2003</showdate>
+<shownavi><previousshow>331</previousshow>
+<nextshow>344</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="61"><![CDATA[There There]]></track>
+<track num="2" id="75"><![CDATA[2&#43;2=5]]></track>
+<track num="3" id="36"><![CDATA[Lucky]]></track>
+<track num="4" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="5" id="88"><![CDATA[Scatterbrain]]></track>
+<track num="6" id="40"><![CDATA[National Anthem]]></track>
+<track num="7" id="138"><![CDATA[Backdrifts]]></track>
+<track num="8" id="60"><![CDATA[Sail To The Moon]]></track>
+<track num="9" id="44"><![CDATA[In Limbo]]></track>
+<track num="10" id="20"><![CDATA[Bones]]></track>
+<track num="11" id="95"><![CDATA[Where I End and You Begin]]></track>
+<track num="12" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="13" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="14" id="28"><![CDATA[Punch Up At a Wedding]]></track>
+<track num="15" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="16" id="45"><![CDATA[Idioteque]]></track>
+<track num="17" id="38"><![CDATA[Everything In Its Right Place]]></track>
+</main>
+<encore1>
+<track num="18" id="137"><![CDATA[The Gloaming]]></track>
+<track num="19" id="49"><![CDATA[Pyramid Song]]></track>
+<track num="20" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="21" id="56"><![CDATA[Like Spinning Plates]]></track>
+</encore1>
+<encore2>
+<track num="22" id="4"><![CDATA[Exit Music (for a film)]]></track>
+<track num="23" id="93"><![CDATA[Sit Down. Stand Up.]]></track>
+<track num="24" id="2"><![CDATA[Karma Police]]></track>
+</encore2>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[gabi]]></member>
+<member id=""><![CDATA[Midnight Cowboy]]></member>
+<member id=""><![CDATA[Jarly]]></member>
+<member id=""><![CDATA[mandyr]]></member>
+<member id=""><![CDATA[enigma]]></member>
+<member id=""><![CDATA[lost-child]]></member>
+<member id=""><![CDATA[Wolf77]]></member>
+<member id=""><![CDATA[radioreverie]]></member>
+<member id=""><![CDATA[idiotequeit]]></member>
+<member id=""><![CDATA[Trish]]></member>
+<member id=""><![CDATA[bigdaddy]]></member>
+<member id=""><![CDATA[Geox]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=330]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

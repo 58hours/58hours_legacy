@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="122"><![CDATA[Tennessee]]></locale>
+<city id="237"><![CDATA[Memphis]]></city>
+<venue id="417"><![CDATA[Mid-South Coliseum]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Mid-South+Coliseum</venue>
+</flashlabel>
+<showdate>Wednesday, July 19, 1995</showdate>
+<shownavi><previousshow>578</previousshow>
+<nextshow>372</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=574]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

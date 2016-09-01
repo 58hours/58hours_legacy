@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="12"><![CDATA[Brazil]]></country>
+<locale id="133"><![CDATA[Rio de Janeiro]]></locale>
+<city id="264"><![CDATA[Rio de Janeiro]]></city>
+<venue id="487"><![CDATA[Praça Da Apoteose]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Pra%E7a+Da+Apoteose</venue>
+</flashlabel>
+<showdate>Friday, March 20, 2009</showdate>
+<tour id="15"><![CDATA[Latin/South America 2009 (Spring) In Rainbows]]></tour>
+<shownavi><previousshow>672</previousshow>
+<nextshow>674</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="158"><![CDATA[15 Step]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[neekole]]></member>
+<member id=""><![CDATA[rafa-rh]]></member>
+<member id=""><![CDATA[clarissa]]></member>
+<member id=""><![CDATA[liviopv]]></member>
+<member id=""><![CDATA[Minus The Bibo]]></member>
+<member id=""><![CDATA[jnunes]]></member>
+<member id=""><![CDATA[leandrojmp]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=673]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="6"><![CDATA[Canada]]></country>
+<locale id="29"><![CDATA[Alberta]]></locale>
+<city id="97"><![CDATA[Edmonton]]></city>
+<venue id="160"><![CDATA[University of Alberta]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>University+of+Alberta</venue>
+</flashlabel>
+<showdate>Wednesday, March 20, 1996</showdate>
+<shownavi><previousshow>310</previousshow>
+<nextshow>311</nextshow>
+</shownavi>
+<support><![CDATA[David Gray]]></support>
+<setlist>
+<main>
+<track num="1" id="6"><![CDATA[Creep]]></track>
+<track num="2" id="22"><![CDATA[Just]]></track>
+<track num="3" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="4" id="17"><![CDATA[The Bends]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[krista32]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=236]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

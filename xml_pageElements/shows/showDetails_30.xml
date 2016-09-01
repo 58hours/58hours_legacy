@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="13"><![CDATA[D.C.]]></locale>
+<city id="25"><![CDATA[Washington]]></city>
+<venue id="59"><![CDATA[9:30 Club]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>9%3A30+Club</venue>
+</flashlabel>
+<showdate>Saturday, June 13, 1998</showdate>
+<shownavi><previousshow>53</previousshow>
+<nextshow>301</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="29"><![CDATA[Airbag]]></track>
+<track num="2" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="3" id="2"><![CDATA[Karma Police]]></track>
+<track num="4" id="17"><![CDATA[The Bends]]></track>
+<track num="5" id="34"><![CDATA[Climbing Up The Walls]]></track>
+<track num="6" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="7" id="41"><![CDATA[How To Disappear Completely]]></track>
+<track num="8" id="22"><![CDATA[Just]]></track>
+<track num="9" id="35"><![CDATA[No Surprises]]></track>
+<track num="10" id="36"><![CDATA[Lucky]]></track>
+<track num="11" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="12" id="6"><![CDATA[Creep]]></track>
+<track num="13" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[strack]]></member>
+<member id=""><![CDATA[kstrack]]></member>
+<member id=""><![CDATA[chules]]></member>
+<member id=""><![CDATA[bobw@wrnr.com]]></member>
+<member id=""><![CDATA[Kris]]></member>
+</memberspresent>
+<shownotes><![CDATA[This was a makeup show due to the bad storms at the Tibetan Freedom Concert that day.  Fans were allowed to use their TFC ticket stubs for entry.]]></shownotes>
+<post_comments><![CDATA[post_comments.php?showID=30]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

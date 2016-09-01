@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="194"><![CDATA[Middlesex]]></city>
+<venue id="358"><![CDATA[Middlesex University]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Middlesex+University</venue>
+</flashlabel>
+<showdate>Friday, October 23, 1992</showdate>
+<shownavi><previousshow>487</previousshow>
+<nextshow>485</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=486]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

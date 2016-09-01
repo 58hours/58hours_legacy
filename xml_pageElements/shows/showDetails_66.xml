@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="2"><![CDATA[San Francisco]]></city>
+<venue id="13"><![CDATA[Live 105 Free Show]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Live+105+Free+Show</venue>
+</flashlabel>
+<showdate>Sunday, July 11, 1993</showdate>
+<shownavi><previousshow>65</previousshow>
+<nextshow>67</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="125"><![CDATA[Sing a Song For You]]></track>
+<track num="2" id="9"><![CDATA[Thinking About You]]></track>
+<track num="3" id="82"><![CDATA[Killer Cars]]></track>
+<track num="4" id="6"><![CDATA[Creep]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<shownotes><![CDATA[Thom solo]]></shownotes>
+<post_comments><![CDATA[post_comments.php?showID=66]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="2"><![CDATA[San Francisco]]></city>
+<venue id="55"><![CDATA[The Warfield Theatre]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>The+Warfield+Theatre</venue>
+</flashlabel>
+<showdate>Thursday, October 12, 1995</showdate>
+<shownavi><previousshow>321</previousshow>
+<nextshow>184</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="17"><![CDATA[The Bends]]></track>
+<track num="2" id="20"><![CDATA[Bones]]></track>
+<track num="3" id="18"><![CDATA[High and Dry]]></track>
+<track num="4" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="5" id="6"><![CDATA[Creep]]></track>
+<track num="6" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="7" id="36"><![CDATA[Lucky]]></track>
+<track num="8" id="22"><![CDATA[Just]]></track>
+<track num="9" id="19"><![CDATA[Fake Plastic Trees]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=320]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

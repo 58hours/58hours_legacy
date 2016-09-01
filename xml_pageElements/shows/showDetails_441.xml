@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="41"><![CDATA[Birmingham]]></city>
+<venue id="325"><![CDATA[Edwards No. 8]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Edwards+No.+8</venue>
+</flashlabel>
+<showdate>Wednesday, October 07, 1992</showdate>
+<shownavi><previousshow>489</previousshow>
+<nextshow>442</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=441]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

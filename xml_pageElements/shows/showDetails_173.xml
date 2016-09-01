@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="16"><![CDATA[Italy]]></country>
+<locale id="80"><![CDATA[Tuscany]]></locale>
+<city id="111"><![CDATA[Florence]]></city>
+<venue id="190"><![CDATA[Piazza Santa Croce]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Piazza+Santa+Croce</venue>
+</flashlabel>
+<showdate>Wednesday, June 21, 2000</showdate>
+<shownavi><previousshow>111</previousshow>
+<nextshow>174</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="43"><![CDATA[Optimistic]]></track>
+<track num="2" id="20"><![CDATA[Bones]]></track>
+<track num="3" id="2"><![CDATA[Karma Police]]></track>
+<track num="4" id="16"><![CDATA[Planet Telex]]></track>
+<track num="5" id="46"><![CDATA[Morning Bell]]></track>
+<track num="6" id="41"><![CDATA[How To Disappear Completely]]></track>
+<track num="7" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="8" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="9" id="40"><![CDATA[National Anthem]]></track>
+<track num="10" id="39"><![CDATA[Kid A]]></track>
+<track num="11" id="35"><![CDATA[No Surprises]]></track>
+<track num="12" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="13" id="51"><![CDATA[You And Whose Army?]]></track>
+<track num="14" id="53"><![CDATA[Knives Out]]></track>
+<track num="15" id="29"><![CDATA[Airbag]]></track>
+<track num="16" id="22"><![CDATA[Just]]></track>
+<track num="17" id="38"><![CDATA[Everything In Its Right Place]]></track>
+<track num="18" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="19" id="49"><![CDATA[Pyramid Song]]></track>
+<track num="20" id="14"><![CDATA[Lurgee]]></track>
+<track num="21" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="22" id="4"><![CDATA[Exit Music (for a film)]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[gabi]]></member>
+<member id=""><![CDATA[miminli]]></member>
+<member id=""><![CDATA[enigma]]></member>
+<member id=""><![CDATA[Geox]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=173]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

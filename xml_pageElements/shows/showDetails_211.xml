@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="14"><![CDATA[Switzerland]]></country>
+<locale id="50"><![CDATA[Geneva]]></locale>
+<city id="74"><![CDATA[Geneva]]></city>
+<venue id="118"><![CDATA[Lignon Hall]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Lignon+Hall</venue>
+</flashlabel>
+<showdate>Saturday, November 20, 1993</showdate>
+<shownavi><previousshow>74</previousshow>
+<nextshow>73</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="17"><![CDATA[The Bends]]></track>
+<track num="2" id="13"><![CDATA[Prove Yourself]]></track>
+<track num="3" id="5"><![CDATA[You]]></track>
+<track num="4" id="78"><![CDATA[Yes I Am]]></track>
+<track num="5" id="12"><![CDATA[Vegetable]]></track>
+<track num="6" id="6"><![CDATA[Creep]]></track>
+<track num="7" id="11"><![CDATA[Ripcord]]></track>
+<track num="8" id="71"><![CDATA[Banana Co.]]></track>
+<track num="9" id="69"><![CDATA[Pop Is Dead]]></track>
+<track num="10" id="10"><![CDATA[Anyone Can Play Guitar]]></track>
+<track num="11" id="15"><![CDATA[Blow Out]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<comments>
+<comment author="Pedro" timestamp="3:24 PM [PST], Friday, May 12, 2006"><![CDATA[my first gig from radiohead...fantastic!!! Radiohead open to James...]]></comment>
+</comments>
+<post_comments><![CDATA[post_comments.php?showID=211]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

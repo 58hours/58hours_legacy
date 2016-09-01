@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="13"><![CDATA[D.C.]]></locale>
+<city id="25"><![CDATA[Washington]]></city>
+<venue id="59"><![CDATA[9:30 Club]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>9%3A30+Club</venue>
+</flashlabel>
+<showdate>Monday, June 28, 1993</showdate>
+<shownavi><previousshow>546</previousshow>
+<nextshow>65</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[Kris]]></member>
+<member id=""><![CDATA[yokoshima]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=547]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

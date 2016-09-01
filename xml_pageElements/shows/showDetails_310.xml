@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="1"><![CDATA[Los Angeles]]></city>
+<venue id="54"><![CDATA[The Tonight Show]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>The+Tonight+Show</venue>
+</flashlabel>
+<showdate>Friday, March 15, 1996</showdate>
+<shownavi><previousshow>118</previousshow>
+<nextshow>236</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="18"><![CDATA[High and Dry]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=310]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

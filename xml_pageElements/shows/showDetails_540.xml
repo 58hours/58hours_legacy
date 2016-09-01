@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="10"><![CDATA[Netherlands]]></country>
+<locale id="56"><![CDATA[Zuid-Holland]]></locale>
+<city id="219"><![CDATA[Den Haag (The Hague)]]></city>
+<venue id="388"><![CDATA[Paard]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Paard</venue>
+</flashlabel>
+<showdate>Thursday, June 10, 1993</showdate>
+<shownavi><previousshow>539</previousshow>
+<nextshow>350</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=540]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

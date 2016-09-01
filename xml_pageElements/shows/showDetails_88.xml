@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="28"><![CDATA[Virginia]]></locale>
+<city id="12"><![CDATA[Centreville]]></city>
+<venue id="99"><![CDATA[Bull Run Regional Park]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Bull+Run+Regional+Park</venue>
+</flashlabel>
+<showdate>Sunday, August 12, 2001</showdate>
+<shownavi><previousshow>87</previousshow>
+<nextshow>85</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[veggy_head]]></member>
+<member id=""><![CDATA[lost-child]]></member>
+<member id=""><![CDATA[dreamsie]]></member>
+<member id=""><![CDATA[fradleybox]]></member>
+<member id=""><![CDATA[Bort]]></member>
+<member id=""><![CDATA[leifdog222]]></member>
+</memberspresent>
+<shownotes><![CDATA[Cancelled due to flooding.]]></shownotes>
+<post_comments><![CDATA[post_comments.php?showID=88]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

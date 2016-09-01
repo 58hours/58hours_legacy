@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="42"><![CDATA[London]]></city>
+<venue id="179"><![CDATA[BBC Broadcasting House]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>BBC+Broadcasting+House</venue>
+</flashlabel>
+<showdate>Monday, June 22, 1992</showdate>
+<shownavi><previousshow>464</previousshow>
+<nextshow>463</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="13"><![CDATA[Prove Yourself]]></track>
+<track num="2" id="6"><![CDATA[Creep]]></track>
+<track num="3" id="3"><![CDATA[I Can't]]></track>
+<track num="4" id="131"><![CDATA[Nothing Touches Me]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=343]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

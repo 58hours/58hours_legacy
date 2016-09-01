@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="181"><![CDATA[Newcastle]]></city>
+<venue id="309"><![CDATA[Telewest Arena]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Telewest+Arena</venue>
+</flashlabel>
+<showdate>Sunday, November 23, 2003</showdate>
+<tour id="9"><![CDATA[Hail To The Thief]]></tour>
+<shownavi><previousshow>416</previousshow>
+<nextshow>418</nextshow>
+</shownavi>
+<support><![CDATA[Asian Dub Foundation]]></support>
+<setlist>
+<main>
+<track num="1" id="137"><![CDATA[The Gloaming]]></track>
+<track num="2" id="75"><![CDATA[2&#43;2=5]]></track>
+<track num="3" id="46"><![CDATA[Morning Bell]]></track>
+<track num="4" id="95"><![CDATA[Where I End and You Begin]]></track>
+<track num="5" id="93"><![CDATA[Sit Down. Stand Up.]]></track>
+<track num="6" id="39"><![CDATA[Kid A]]></track>
+<track num="7" id="118"><![CDATA[I Will]]></track>
+<track num="8" id="89"><![CDATA[Myxomatosis]]></track>
+<track num="9" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="10" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="11" id="60"><![CDATA[Sail To The Moon]]></track>
+<track num="12" id="58"><![CDATA[Talk Show Host]]></track>
+<track num="13" id="28"><![CDATA[Punch Up At a Wedding]]></track>
+<track num="14" id="22"><![CDATA[Just]]></track>
+<track num="15" id="45"><![CDATA[Idioteque]]></track>
+<track num="16" id="35"><![CDATA[No Surprises]]></track>
+<track num="17" id="61"><![CDATA[There There]]></track>
+</main>
+<encore1>
+<track num="18" id="51"><![CDATA[You And Whose Army?]]></track>
+<track num="19" id="40"><![CDATA[National Anthem]]></track>
+<track num="20" id="92"><![CDATA[Wolf at the Door]]></track>
+<track num="21" id="2"><![CDATA[Karma Police]]></track>
+</encore1>
+<encore2>
+<track num="22" id="90"><![CDATA[We Suck Young Blood]]></track>
+<track num="23" id="17"><![CDATA[The Bends]]></track>
+<track num="24" id="38"><![CDATA[Everything In Its Right Place]]></track>
+</encore2>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[peterpan]]></member>
+<member id=""><![CDATA[mandyr]]></member>
+<member id=""><![CDATA[enigma]]></member>
+<member id=""><![CDATA[Danger]]></member>
+<member id=""><![CDATA[inbits]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=417]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

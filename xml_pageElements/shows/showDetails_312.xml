@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="1"><![CDATA[California]]></locale>
+<city id="1"><![CDATA[Los Angeles]]></city>
+<venue id="239"><![CDATA[KROQ Studios]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>KROQ+Studios</venue>
+</flashlabel>
+<showdate>Friday, March 29, 1996</showdate>
+<shownavi><previousshow>24</previousshow>
+<nextshow>237</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="2" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="3" id="18"><![CDATA[High and Dry]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=312]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

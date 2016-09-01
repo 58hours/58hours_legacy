@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="2"><![CDATA[Washington]]></locale>
+<city id="3"><![CDATA[Seattle]]></city>
+<venue id="307"><![CDATA[Sailors Union of the Pacific Hall]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Sailors+Union+of+the+Pacific+Hall</venue>
+</flashlabel>
+<showdate>Monday, July 10, 1995</showdate>
+<shownavi><previousshow>576</previousshow>
+<nextshow>577</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="17"><![CDATA[The Bends]]></track>
+<track num="2" id="13"><![CDATA[Prove Yourself]]></track>
+<track num="3" id="25"><![CDATA[Black Star]]></track>
+<track num="4" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="5" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="6" id="11"><![CDATA[Ripcord]]></track>
+<track num="7" id="6"><![CDATA[Creep]]></track>
+<track num="8" id="16"><![CDATA[Planet Telex]]></track>
+<track num="9" id="22"><![CDATA[Just]]></track>
+<track num="10" id="5"><![CDATA[You]]></track>
+<track num="11" id="24"><![CDATA[Bullet Proof.. I Wish I Was]]></track>
+<track num="12" id="15"><![CDATA[Blow Out]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=413]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

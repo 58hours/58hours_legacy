@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="46"><![CDATA[Reading]]></city>
+<venue id="328"><![CDATA[South Street]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>South+Street</venue>
+</flashlabel>
+<showdate>Thursday, October 15, 1992</showdate>
+<shownavi><previousshow>444</previousshow>
+<nextshow>447</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="" id=""><![CDATA[]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=445]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

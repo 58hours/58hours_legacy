@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="2"><![CDATA[Washington]]></locale>
+<city id="3"><![CDATA[Seattle]]></city>
+<venue id="211"><![CDATA[Kitsap County Fairgrounds]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Kitsap+County+Fairgrounds</venue>
+</flashlabel>
+<showdate>Saturday, August 02, 1997</showdate>
+<shownavi><previousshow>193</previousshow>
+<nextshow>251</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="2" id="30"><![CDATA[Paranoid Android]]></track>
+<track num="3" id="36"><![CDATA[Lucky]]></track>
+<track num="4" id="29"><![CDATA[Airbag]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=277]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

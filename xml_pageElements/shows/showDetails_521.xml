@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="3"><![CDATA[New York]]></locale>
+<city id="4"><![CDATA[New York City]]></city>
+<venue id="177"><![CDATA[Beacon Theatre]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Beacon+Theatre</venue>
+</flashlabel>
+<showdate>Tuesday, December 13, 1994</showdate>
+<shownavi><previousshow>214</previousshow>
+<nextshow>180</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="2" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="3" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="4" id="5"><![CDATA[You]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=521]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

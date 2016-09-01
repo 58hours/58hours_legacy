@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="3"><![CDATA[France]]></country>
+<locale id="54"><![CDATA[Paris]]></locale>
+<city id="77"><![CDATA[Paris]]></city>
+<venue id="251"><![CDATA[Le Réservoir]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Le+R%E9servoir</venue>
+</flashlabel>
+<showdate>Thursday, July 03, 2003</showdate>
+<shownavi><previousshow>334</previousshow>
+<nextshow>332</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="52"><![CDATA[I Might Be Wrong]]></track>
+<track num="2" id="61"><![CDATA[There There]]></track>
+<track num="3" id="94"><![CDATA[Go To Sleep]]></track>
+<track num="4" id="53"><![CDATA[Knives Out]]></track>
+<track num="5" id="60"><![CDATA[Sail To The Moon]]></track>
+<track num="6" id="118"><![CDATA[I Will]]></track>
+<track num="7" id="35"><![CDATA[No Surprises]]></track>
+<track num="8" id="28"><![CDATA[Punch Up At a Wedding]]></track>
+<track num="9" id="38"><![CDATA[Everything In Its Right Place]]></track>
+<track num="10" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="11" id="67"><![CDATA[Fog]]></track>
+<track num="12" id="2"><![CDATA[Karma Police]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[bryan]]></member>
+</memberspresent>
+<shownotes><![CDATA[Secret gig for fanclub & tv]]></shownotes>
+<comments>
+<comment author="t" timestamp="11:51 PM [PST], Friday, January 16, 2009"><![CDATA[This was a live acoustic set featuring Thom and Jonny]]></comment>
+</comments>
+<post_comments><![CDATA[post_comments.php?showID=333]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

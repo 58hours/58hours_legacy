@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="42"><![CDATA[London]]></city>
+<venue id="22"><![CDATA[Carling Academy Brixton]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Carling+Academy+Brixton</venue>
+</flashlabel>
+<showdate>Saturday, November 04, 1995</showdate>
+<shownavi><previousshow>184</previousshow>
+<nextshow>148</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+<track num="2" id="20"><![CDATA[Bones]]></track>
+<track num="3" id="22"><![CDATA[Just]]></track>
+<track num="4" id="24"><![CDATA[Bullet Proof.. I Wish I Was]]></track>
+<track num="5" id="18"><![CDATA[High and Dry]]></track>
+<track num="6" id="25"><![CDATA[Black Star]]></track>
+<track num="7" id="8"><![CDATA[Stop Whispering]]></track>
+<track num="8" id="6"><![CDATA[Creep]]></track>
+<track num="9" id="66"><![CDATA[Big Boots]]></track>
+<track num="10" id="16"><![CDATA[Planet Telex]]></track>
+<track num="11" id="13"><![CDATA[Prove Yourself]]></track>
+<track num="12" id="23"><![CDATA[My Iron Lung]]></track>
+<track num="13" id="10"><![CDATA[Anyone Can Play Guitar]]></track>
+<track num="14" id="15"><![CDATA[Blow Out]]></track>
+<track num="15" id="19"><![CDATA[Fake Plastic Trees]]></track>
+<track num="16" id="31"><![CDATA[Subterranean Homesick Alien]]></track>
+<track num="17" id="36"><![CDATA[Lucky]]></track>
+<track num="18" id="21"><![CDATA[(Nice Dream)]]></track>
+<track num="19" id="5"><![CDATA[You]]></track>
+<track num="20" id="17"><![CDATA[The Bends]]></track>
+<track num="21" id="123"><![CDATA[Nobody Does It Better]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[andyowen]]></member>
+<member id=""><![CDATA[stooge]]></member>
+<member id=""><![CDATA[markteleplus]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=149]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

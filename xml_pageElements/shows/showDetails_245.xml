@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="2"><![CDATA[UK]]></country>
+<locale id="6"><![CDATA[England]]></locale>
+<city id="101"><![CDATA[Liverpool]]></city>
+<venue id="165"><![CDATA[Lomax]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>Lomax</venue>
+</flashlabel>
+<showdate>Friday, February 10, 1995</showdate>
+<shownavi><previousshow>180</previousshow>
+<nextshow>8</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="13"><![CDATA[Prove Yourself]]></track>
+<track num="2" id="6"><![CDATA[Creep]]></track>
+<track num="3" id="15"><![CDATA[Blow Out]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=245]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>

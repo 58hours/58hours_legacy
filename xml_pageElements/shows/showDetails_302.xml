@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdata>
+<breadcrumb>
+<country id="1"><![CDATA[USA]]></country>
+<locale id="13"><![CDATA[D.C.]]></locale>
+<city id="25"><![CDATA[Washington]]></city>
+<venue id="233"><![CDATA[West Capitol Lawn]]></venue>
+</breadcrumb>
+<flashlabel>
+<venue>West+Capitol+Lawn</venue>
+</flashlabel>
+<showdate>Monday, June 15, 1998</showdate>
+<shownavi><previousshow>301</previousshow>
+<nextshow>303</nextshow>
+</shownavi>
+<setlist>
+<main>
+<track num="1" id="27"><![CDATA[Street Spirit (fade out)]]></track>
+</main>
+</setlist>
+<memberspresent>
+<member id=""><![CDATA[strack]]></member>
+<member id=""><![CDATA[kstrack]]></member>
+<member id=""><![CDATA[czarina68]]></member>
+<member id=""><![CDATA[okcokc]]></member>
+</memberspresent>
+<post_comments><![CDATA[post_comments.php?showID=302]]></post_comments>
+<getall_comments><![CDATA[&allComments=1]]></getall_comments>
+</rdata>
